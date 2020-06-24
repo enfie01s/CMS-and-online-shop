@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<param name="titlesize" value="20" />
+	<param name="margin" value="5" />
+	<param name="srtsize" value="11" />
+	
+	<param name="titlecolor" value="ffffff" />
+	<param name="buffercolor" value="000000" />
+	<param name="bufferbgcolor" value="777777" />
+	<param name="srtcolor" value="ffffff" />
+	<param name="srtbgcolor" value="333333" />
+	<param name="playercolor" value="222222" />
+	<param name="loadingcolor" value="AF8E7B" />
+	<param name="videobgcolor" value="000000" />
+	<param name="bgcolor" value="231F20" />
+	<param name="bgcolor1" value="7B7B7B" />
+	<param name="bgcolor2" value="333333" />
+	<param name="buttoncolor" value="999999" />
+	<param name="buttonovercolor" value="AF8E7B" />
+	<param name="slidercolor1" value="FFFFFF" />
+	<param name="slidercolor2" value="999999" />
+	<param name="sliderovercolor" value="AF8E7B" />
+	<param name="iconplaycolor" value="111111" />
+	<param name="iconplaybgcolor" value="BBBBBB" />
+	
+	<param name="playeralpha" value="80" />
+	<param name="iconplaybgalpha" value="60" />
+	
+	<param name="buffermessage" value="Buffering..." />
+	<param name="title" value="" />
+	<param name="startimage" value="" />
+	<param name="srturl" value="video.srt" />
+	
+	<param name="showplayer" value="autohide" />
+	<param name="showloading" value="autohide" />
+	<param name="showmouse" value="autohide" />
+	<param name="onclick" value="playpause" />
+	<param name="onclicktarget" value="_blank" />
+	<param name="ondoubleclick" value="fullscreen" />
+	<param name="ondoubleclicktarget" value="_blank" />
+	
+	<param name="buffer" value="5" />
+	<param name="playertimeout" value="1500" />
+	<param name="volume" value="100" />
+	
+	<param name="buffershowbg" value="1" />
+	<param name="srt" value="0" />
+	<param name="loop" value="0" />
+	<param name="loadonstop" value="1" />
+	<param name="shortcut" value="1" />
+	<param name="top1" value="1" />
+	<param name="showtitleandstartimage" value="0" />
+	
+	<param name="autoplay" value="0" />
+	<param name="autoload" value="1" />
+	<param name="showstop" value="1" />
+	<param name="showvolume" value="1" />
+	<param name="showtime" value="1" />
+	<param name="showfullscreen" value="1" />
+	<param name="showswitchsubtitles" value="0" />
+	<param name="showiconplay" value="1" />
+</config>

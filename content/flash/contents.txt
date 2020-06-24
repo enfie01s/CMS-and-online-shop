@@ -1,0 +1,5 @@
+expressInstall & preview = magnify
+player = movie player
+zoomifyViewer = products zoomify
+logofooter = marquee logos
+gmk = banner rotation on front page
